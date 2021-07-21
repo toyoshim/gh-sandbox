@@ -2,8 +2,8 @@ title: TITLE
 email: toyoshim@gmail.com
 description: >
   Hoge!
-baseurl: ""
-url: ""
+baseurl: "/gh-sandbox"
+url: "https://toyoshim.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 markdown: kramdown
