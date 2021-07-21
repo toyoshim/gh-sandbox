@@ -1,0 +1,10 @@
+title: TITLE
+email: toyoshim@gmail.com
+description: >
+  Hoge!
+baseurl: ""
+url: ""
+twitter_username: jekyllrb
+github_username:  jekyll
+markdown: kramdown
+remote_theme: toyoshim/midnight@nav
